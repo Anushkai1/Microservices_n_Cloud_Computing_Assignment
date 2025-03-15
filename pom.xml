@@ -13,6 +13,10 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>Microservices_n_Cloud_Computing_Assignment</name>
     <description>Microservices_n_Cloud_Computing_Assignment</description>
+    <modules>
+        <module>department</module>
+        <module>employee</module>
+    </modules>
     <url/>
     <licenses>
         <license/>
