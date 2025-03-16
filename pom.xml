@@ -33,6 +33,7 @@
     <properties>
         <java.version>23</java.version>
     </properties>
+    <dependencyManagement>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -64,7 +65,7 @@
             <scope>runtime</scope>
         </dependency>
     </dependencies>
-
+    </dependencyManagement>
     <build>
         <plugins>
             <plugin>
