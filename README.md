@@ -2,6 +2,40 @@
 
 This repository contains a multi-module Spring Boot project with two services: `department` and `employee`. Each service is designed to interact with a MySQL database, providing REST APIs to manage department and employee data.
 
+## Screenshots
+
+#### **1. Create Department**
+<p align="center">
+  <img width="80%"  src="/ScreenShoots/01. Create Department.png" alt="01. Create Department">
+</p>
+
+#### **02. Select Department**
+<p align="center">
+  <img width="80%"  src="/ScreenShoots/02. Select Department.png" alt="02. Select Department">
+</p>
+
+#### **03. Select All Departments**
+<p align="center">
+  <img width="80%"  src="/ScreenShoots/03. Select All Departments.png" alt="03. Select All Departments">
+</p>
+
+#### **04. Create Employee**
+<p align="center">
+  <img width="80%"  src="/ScreenShoots/04. Create Employee.png" alt="04. Create Employee">
+</p>
+
+#### **05. Select Employee**
+<p align="center">
+  <img width="80%"  src="/ScreenShoots/05. Select Employee.png" alt="05. Select Employee">
+</p>
+
+#### **06. Select All Employees**
+<p align="center">
+  <img width="80%"  src="/ScreenShoots/06. Select All Employees.png" alt="06. Select All Employees">
+</p>
+
+<br>
+
 ## Technologies Used
 - **Java**: Programming language (JDK 17 or higher recommended).
 - **Spring Boot**: Framework for building RESTful services and managing dependencies.
